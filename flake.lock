@@ -15,11 +15,11 @@
       },
       "locked": {
         "dir": "0_3_1",
-        "lastModified": 1668776714,
-        "narHash": "sha256-7RfzPoGKm5j6LPABaJOtPq8JxAIGof5veEz3crD22Tw=",
+        "lastModified": 1669431868,
+        "narHash": "sha256-Yy3SMnCPnx9QfwlMnzbxeYSrF1SVJnrBvgrAUh266i0=",
         "owner": "nim-nix-pkgs",
         "repo": "bu",
-        "rev": "c90f13df58b6bf02ec49edbd94c3b01ec4a7238d",
+        "rev": "e8449e1bf6424da1637505c00ee938f399a03507",
         "type": "github"
       },
       "original": {
@@ -42,19 +42,19 @@
           "bu",
           "nixpkgs"
         ],
-        "src-cligen-v1_5_31": "src-cligen-v1_5_31"
+        "src-cligen-v1_5_32": "src-cligen-v1_5_32"
       },
       "locked": {
-        "dir": "v1_5_31",
-        "lastModified": 1667322200,
-        "narHash": "sha256-bL0F1z4tRVaKmR6UQWv3Z+t3K6clWtSz17H33ByJqMM=",
+        "dir": "v1_5_32",
+        "lastModified": 1669431039,
+        "narHash": "sha256-V/+YgGl9eKSG+T/gKcv1wFHJ7K3ztNdT4GKlNoseG9s=",
         "owner": "nim-nix-pkgs",
         "repo": "cligen",
-        "rev": "06804664e4ec0b0484337c406c2d87d9360701d3",
+        "rev": "512e350553394b42d02cfe43b2b76a47ed4a01ee",
         "type": "github"
       },
       "original": {
-        "dir": "v1_5_31",
+        "dir": "v1_5_32",
         "owner": "nim-nix-pkgs",
         "ref": "master",
         "repo": "cligen",
@@ -71,7 +71,7 @@
           "ndup-main",
           "nixpkgs"
         ],
-        "src-cligen-v1_5_32": "src-cligen-v1_5_32"
+        "src-cligen-v1_5_32": "src-cligen-v1_5_32_2"
       },
       "locked": {
         "dir": "v1_5_32",
@@ -274,11 +274,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1669417977,
-        "narHash": "sha256-JElKdO6gCr5jQ7bd4KU+bJZqJsQbzBC8VUZ1bJ7iFpg=",
+        "lastModified": 1669432354,
+        "narHash": "sha256-1hrve8EaYfl6zBKWnbF0tuVioTZDHqMRZFS/jFOp8o0=",
         "owner": "nim-nix-pkgs",
         "repo": "ndup",
-        "rev": "3dadda25c79f99aa2b6c2396c2d722464d4c5667",
+        "rev": "239e9f953d97fd24dd4f561225d4098b61a193b4",
         "type": "github"
       },
       "original": {
@@ -343,24 +343,24 @@
         "type": "github"
       }
     },
-    "src-cligen-v1_5_31": {
+    "src-cligen-v1_5_32": {
       "flake": false,
       "locked": {
-        "lastModified": 1667137650,
-        "narHash": "sha256-n5owOEUTnXbYRwtdzEdVTucFuuGNSy7lRxsppOhu0uo=",
+        "lastModified": 1669379321,
+        "narHash": "sha256-CA/BOV5rnhJ/+HvfYzqDztozMZdJ68XO3I28r2ym6iU=",
         "owner": "c-blake",
         "repo": "cligen",
-        "rev": "57191ea4dcc5d48de735295b2d8a79fb3b501625",
+        "rev": "8fe620d7cd2fcae80c86db52f025e832d784cfeb",
         "type": "github"
       },
       "original": {
         "owner": "c-blake",
-        "ref": "refs/tags/v1.5.31",
+        "ref": "refs/tags/v1.5.32",
         "repo": "cligen",
         "type": "github"
       }
     },
-    "src-cligen-v1_5_32": {
+    "src-cligen-v1_5_32_2": {
       "flake": false,
       "locked": {
         "lastModified": 1669379321,
